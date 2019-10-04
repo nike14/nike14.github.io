@@ -1,5 +1,7 @@
 ## Portfolio
 
+## <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">View My LinkedIn Profile</a> 
+
 ---
 
 ## Skillset
@@ -13,6 +15,7 @@
 || TestLink (Test case management tool) | 1 years |
 | Framework | TestNG | 2 years |
 | | Cucumber | 6 months |
+|| BDD | 1 years |
 | API Testing | Rest Assured | 6 months |
 || Request | 1.5 years | 
 || Client(locust) | 3 months |
