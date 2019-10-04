@@ -11,11 +11,11 @@
 | Open Source Tools | Selenium | 3.5 years |
 || Appium | 1 years |
 || TestLink (Test case management tool) | 1 years |
+| Framework | TestNG | 2 years |
+| | Cucumber | 6 months |
 | API Testing | Rest Assured | 6 months |
 || Request | 1.5 years | 
 || Client(locust) | 3 months |
-| Framework | TestNG | 2 years |
-| | Cucumber | 6 months |
 | VCS | GIT | 2 years |
 | Continuous Integration | Jenkins | 1.5 years |
 | OS | Linux | 1 years |
