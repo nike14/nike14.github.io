@@ -5,6 +5,8 @@
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   Having ​5​ years of IT experience in Automation testing. (​API Testing ​using rest assured and request​, web application ​using Selenium Webdriver 3.0,​ Android Mobile application ​using Appium​, Load Testing ​using locust) 
+  
+  
   <br>
   <p>
    Mobile: +91 7798522172<br>
