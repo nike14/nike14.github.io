@@ -9,8 +9,8 @@
   
   <br>
   <p>
-   Mobile: +91 7798522172<br>
-   Email:  nikhilpareshkumarshah@gmail.com
+   *Mobile*: +91 7798522172<br>
+   *Email*:  nikhilpareshkumarshah@gmail.com
   </p>
  </div>
  <div class="column" style="width:50%">
