@@ -1,7 +1,12 @@
 ## Portfolio
 
----
+## Skillset
 
+| Skill Type | Skill Name | Experience |  
+|-----------|:-----------:|-----------:| 
+| Languages | Core Java | 3.5 Years |
+
+---
 ### Project # 1: CRM UI BDD Framework
 
 CRM UI BDD Framework used to automate CRM flows like edit/create farmer, add products to cart, apply offers, coupons and place an order. Cucumber framework is used to remove the bridge between “​non-technical and technical teams​”. Executed automation script for ​regression testing​. Framework is integrated with​ extent report​ for reporting purpose.
