@@ -1,10 +1,7 @@
 ## Portfolio
-<ul style="list-style-type:none;">
+<ul style="list-style:none;">
   <li>
-    <div>
-      <label>View My LinkedIn Profile</label>
-      <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/"></a>
-     </div>
+      <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">View My LinkedIn Profile</a>
    </li>
   <li>
     <a href="https://github.com/nike14//">View My GitHub Profile</a> 
