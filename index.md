@@ -9,7 +9,7 @@
    Email:  nikhilpareshkumarshah@gmail.com
   </p>
  </div>
- <div class=“column” style=“width:50%“>
+ <div class="column" style="width:50%">
    <br>
   1. <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">LinkedIn Profile</a> <br><br>
   2. <a href="https://github.com/nike14/">GIT</a><br><br>
