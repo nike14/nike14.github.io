@@ -2,7 +2,7 @@
 
 <div class=“row”" style=“height:500px”>
 <div class=“column” style=“width:50%“>
-  <img src=“/images/image.png” alt=“Avatar” style=“width:300px”><br>
+  <img src=“/images/logo.png” alt=“Avatar” style=“width:300px”><br>
   <br>
   <p>
    Mobile: +91 7798522172<br>
