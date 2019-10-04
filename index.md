@@ -7,6 +7,8 @@
   <p>
    Mobile: +91 7798522172<br>
    Email:  nikhilpareshkumarshah@gmail.com
+   
+   Having ​5​ years of IT experience in Automation testing. (​API Testing ​using rest assured and request​, web application ​using Selenium Webdriver 3.0,​ Android Mobile application ​using Appium​, Load Testing ​using locust) 
   </p>
  </div>
  <div class="column" style="width:50%">
