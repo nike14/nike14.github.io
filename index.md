@@ -1,4 +1,26 @@
 ## Portfolio
+
+div class=“row”" style=“height:500px”>
+<div class=“column” style=“width:50%“>
+  <img src=“/images/image.png” alt=“Avatar” style=“width:300px”><br>
+  <br>
+  <p>
+   Mobile: +91 7798522172<br>
+   Email:  nikhilpareshkumarshah@gmail.com
+  </p>
+ </div>
+ <div class=“column” style=“width:50%“>
+   <br>
+  1. <a href=“https://www.linkedin.com/in/sonali-oswal-9b0195113/“>LinkedIn Profile</a> <br><br>
+  3. <a href=“https://github.com/sonalioswal”>GIT</a><br><br>
+  4. <a href=“https://drive.google.com/open?id=1hIxFzQKkWRl8gPaGKS5buvg3dNquyLVQ”>Resume</a>
+</div>
+</div>
+
+
+
+
+
 <ul style="list-style: none;">
   <li>
       <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">View My LinkedIn Profile</a>
