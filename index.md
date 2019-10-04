@@ -32,7 +32,6 @@
 || Appium | 1 years |
 || TestLink (Test case management tool) | 1 years |
 | Framework | TestNG | 2 years |
-| | Cucumber | 6 months |
 || BDD | 1 years |
 | API Testing | Rest Assured | 6 months |
 || Request | 1.5 years | 
