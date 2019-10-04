@@ -4,7 +4,22 @@
 
 | Skill Type | Skill Name | Experience |  
 |-----------|:-----------:|-----------:| 
-| Languages | Core Java | 3.5 Years |
+| Languages | Core Java | 3.5 years |
+| | Python | 6 months |
+| Open Source Tools | Selenium | 3.5 years |
+|| Appium | 1 years |
+|| TestLink (Test case management tool) | 1 years |
+| API Testing | Rest Assured | 6 months |
+|| Request | 1.5 years | 
+|| Client(locust) | 3 months |
+| Framework | TestNG | 2 years |
+| | Cucumber | 6 months |
+| VCS | GIT | 2 years |
+| Continuous Integration | Jenkins | 1.5 years |
+| OS | Linux | 1 years |
+| IDE/Editors | Eclipse | 2 Years |
+| | Intellij | 1 Years |
+
 
 ---
 ### Project # 1: CRM UI BDD Framework
