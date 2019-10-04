@@ -1,5 +1,5 @@
 ## Portfolio
-<ul style="list-style:none;">
+<ul style="list-style: none;">
   <li>
       <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">View My LinkedIn Profile</a>
    </li>
