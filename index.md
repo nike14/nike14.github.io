@@ -19,6 +19,8 @@
 | OS | Linux | 1 years |
 | IDE/Editors | Eclipse | 2 Years |
 | | Intellij | 1 Years |
+|| Pycharm| 6 months |
+| Methodology| Scrum, Kanban | 3 Years |
 
 
 ---
