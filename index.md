@@ -11,24 +11,11 @@
  </div>
  <div class=“column” style=“width:50%“>
    <br>
-  1. <a href=“https://www.linkedin.com/in/sonali-oswal-9b0195113/“>LinkedIn Profile</a> <br><br>
-  3. <a href=“https://github.com/sonalioswal”>GIT</a><br><br>
-  4. <a href=“https://drive.google.com/open?id=1hIxFzQKkWRl8gPaGKS5buvg3dNquyLVQ”>Resume</a>
+  1. <a href=“https://www.linkedin.com/in/nikhil-shah-227b95b5/“>LinkedIn Profile</a> <br><br>
+  2. <a href=“https://github.com/nike14/”>GIT</a><br><br>
+  3. <a href=“https://drive.google.com/open?id=1hIxFzQKkWRl8gPaGKS5buvg3dNquyLVQ”>Resume</a>
 </div>
 </div>
-
-
-
-
-
-<ul style="list-style: none;">
-  <li>
-      <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">View My LinkedIn Profile</a>
-   </li>
-  <li>
-    <a href="https://github.com/nike14//">View My GitHub Profile</a> 
-   </li>
-  </ul>
 
 ---
 
