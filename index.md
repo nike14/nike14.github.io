@@ -81,8 +81,9 @@ AgroEx is a hyperlocal logistic service of Agrostar. AgroEx Delivery enables the
 
 ### Responsibilities​ : 
 1. Working and mentoring automation QA technology teams at Avalara.
-2. Define test strategies for testing RESTful APIs, web apps, Android apps testing in the overall tech stack of the business flow. 
-3. Responsible for developing robust API as well as UI based testing frameworks using Java, Selenium, TestNG, REST Assured, Appium, Python, JavaScript (Node.js) etc.
-4. Responsible for providing Test Estimation in Sprint, Test Case Review as well as Test Case writing 
-5. Implemented Locust as load testing tool.
+2. Worked on building end-to-end BDD integration tests from scratch with Node.js, NightWatch. Used Jenkins to run tests on successful builds and publish results. These tests were helpful in catching issues in the relevant modules of the system in a timely manner.
+3. Define test strategies for testing RESTful APIs, web apps, Android apps testing in the overall tech stack of the business flow. 
+4. Responsible for developing robust API as well as UI based testing frameworks using Java, Selenium, TestNG, REST Assured, Appium, Python, JavaScript (Node.js) etc.
+5. Responsible for providing Test Estimation in Sprint, Test Case Review as well as Test Case writing 
+6. Implemented Locust as load testing tool.
 
