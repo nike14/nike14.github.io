@@ -5,7 +5,7 @@
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   <p>
-  Having ​6​ years of IT experience in Automation testing. (​API Testing ​using rest assured and request​, web application ​using Selenium Webdriver 3.0,​ Android Mobile application ​using Appium​, Load Testing ​using locust) 
+  Having ​6.9​ years of IT experience in Automation testing. (​API Testing ​using rest assured and request​, web application ​using Selenium Webdriver 3.0,​ Android Mobile application ​using Appium​, Load Testing ​using locust) 
   </p>
   <p>
    Mobile: +91 7798522172<br>
@@ -28,50 +28,58 @@
 |-----------|:-----------:|-----------:| 
 | Languages | Core Java | 3.5 years |
 | | Python | 6 months |
-| Open Source Tools | Selenium | 3.5 years |
+| | JavaScript | 6 months |
+| Open Source Tools | Selenium | 5 years |
 || Appium | 1 years |
+|| NightWatch | 1 years |
 || TestLink (Test case management tool) | 1 years |
 | Framework | TestNG | 2 years |
-|| BDD | 1 years |
+|| BDD | 3 years |
 || [lemoncheesecake](https://github.com/lemoncheesecake/lemoncheesecake) | 1 years |
 | API Testing | Rest Assured | 6 months |
 || Request | 1.5 years | 
 || Client(locust) | 3 months |
-| VCS | GIT | 2 years |
+| VCS | GIT | 3 years |
 | Continuous Integration | Jenkins | 1.5 years |
 | OS | Linux | 1 years |
 | IDE/Editors | Eclipse | 2 Years |
 | | Intellij | 1 Years |
 || Pycharm| 6 months |
-| Methodology| Scrum, Kanban | 3 Years |
+| Methodology| Scrum, Kanban | 5 Years |
 
+### Project # 1: Returns console UI BDD Framework
 
-### Project # 1: CRM UI BDD Framework
+Returns Console UI BDD Framework used to automate flows like create account, company, calendars and file the returns using different methods. Cucumber framework is used to remove the bridge between “non-technical and technical teams”. Executed automation script for smoke and regression testing. 
+
+---
+
+### Project # 2: CRM UI BDD Framework
 
 CRM UI BDD Framework used to automate CRM flows like edit/create farmer, add products to cart, apply offers, coupons and place an order. Cucumber framework is used to remove the bridge between “​non-technical and technical teams​”. Executed automation script for ​regression testing​. Framework is integrated with​ extent report​ for reporting purpose.
 
 ---
 
-### Project # 2: Load Testing Automation Framework
+### Project # 3: Load Testing Automation Framework
 
 Agrostar Lite is a PWA(Progressive web app) app is used for ​field officers to place orders from the field for new and old farmers. ​Load Testing Automation Framework is used to automate Agrostar Lite API. locust framework is used to automate rest API.
 
 ---
-### Project # 3: API Automation Framework
+### Project # 4: API Automation Framework
 
 API Automation Framework is used to automate CRM ​API Test cases. ​lemon cheese cake framework ​is used for​ ​suite, annotation and reporting purpose and ​Request library is used to automate rest API.​ ​We executed an automation script for regression testing.
 
 ---
 
-### Project # 4: AgroEx Mobile Framework(LMD- Last Mile Delivery)
+### Project # 5: AgroEx Mobile Framework(LMD- Last Mile Delivery)
 
 AgroEx is a hyperlocal logistic service of Agrostar. AgroEx Delivery enables the team to deliver products to our customers at their doorsteps and give them a seamless online shopping experience.
 
 
 
 ### Responsibilities​ : 
-1. Working and mentoring automation and manual QA technology teams at AgroStar - India's first direct-to-farmer m-commerce platform. 
-2. Define test strategies for testing RESTful APIs, web apps, Android apps testing in the overall tech stack of the business flow. 
-3. Responsible for developing robust API as well as UI based testing frameworks using Java, Selenium, TestNG, REST Assured, Appium, Python etc. 
-4. Implemented Locust as load testing tool.
+1. Working and mentoring automation QA technology teams at Avalara.
+2. Working and mentoring automation and manual QA technology teams at AgroStar - India's first direct-to-farmer m-commerce platform. 
+3. Define test strategies for testing RESTful APIs, web apps, Android apps testing in the overall tech stack of the business flow. 
+4. Responsible for developing robust API as well as UI based testing frameworks using Java, Selenium, TestNG, REST Assured, Appium, Python etc. 
+5. Implemented Locust as load testing tool.
 
