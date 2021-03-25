@@ -28,7 +28,7 @@
 |-----------|:-----------:|-----------:| 
 | Languages | Core Java | 3.5 years |
 | | Python | 6 months |
-| | JavaScript | 6 months |
+| | JavaScript (Node.js) | 6 months |
 | Open Source Tools | Selenium | 5 years |
 || Appium | 1 years |
 || NightWatch | 1 years |
@@ -39,9 +39,12 @@
 | API Testing | Rest Assured | 6 months |
 || Request | 1.5 years | 
 || Client(locust) | 3 months |
+| Project packaging tools/libraries | Maven | 2 years |
+|| NPM | 3 months |
 | VCS | GIT | 3 years |
 | Continuous Integration | Jenkins | 1.5 years |
 | OS | Linux | 1 years |
+|| macOS | 1 years |
 | IDE/Editors | Eclipse | 2 Years |
 | | Intellij | 1 Years |
 || Pycharm| 6 months |
@@ -78,8 +81,8 @@ AgroEx is a hyperlocal logistic service of Agrostar. AgroEx Delivery enables the
 
 ### Responsibilities​ : 
 1. Working and mentoring automation QA technology teams at Avalara.
-2. Working and mentoring automation and manual QA technology teams at AgroStar - India's first direct-to-farmer m-commerce platform. 
-3. Define test strategies for testing RESTful APIs, web apps, Android apps testing in the overall tech stack of the business flow. 
-4. Responsible for developing robust API as well as UI based testing frameworks using Java, Selenium, TestNG, REST Assured, Appium, Python etc. 
+2. Define test strategies for testing RESTful APIs, web apps, Android apps testing in the overall tech stack of the business flow. 
+3. Responsible for developing robust API as well as UI based testing frameworks using Java, Selenium, TestNG, REST Assured, Appium, Python etc.
+4. Responsible for providing Test Estimation in Sprint, Test Case Review as well as Test Case writing 
 5. Implemented Locust as load testing tool.
 
