@@ -1,7 +1,7 @@
 ## Portfolio
 
 <div class="row" style="height:67px">
-<div class="column" style="width:75%">
+<div class="column" style="width:70">
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   
@@ -29,13 +29,14 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
   
  </div>
  
- <div class="column" style="width:25%">
+ <div class="column" style="width:30>
    <br>
   1. <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">LinkedIn Profile</a> <br><br>
   2. <a href="https://github.com/nike14/">GIT</a><br><br>
   3. <a href="https://docs.google.com/document/d/1JluZwNp4d5m4YVUTnv8KQA1-mesxYOrc4vjSh3dYEkg/edit?usp=sharing">Resume</a><br><br>
-  4. Mobile: <b>+91 7798522172</b><br><br>
-  5. Email:  <b>nikhilpareshkumarshah@gmail.com</b>
+  
+  Mobile: <b>+91 7798522172</b><br><br>
+  Email:  <b>nikhilpareshkumarshah@gmail.com</b>
   
 </div>
 </div>
