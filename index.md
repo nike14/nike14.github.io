@@ -1,7 +1,7 @@
 ## Portfolio
 
-<div class="row" style="height:680px">
-<div class="column" style="width:70%">
+<div class="row" style="height:690px">
+<div class="column" style="width:65%">
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   
@@ -29,7 +29,7 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
   
  </div>
  
- <div class="column" style="width:30%">
+ <div class="column" style="width:35%">
    <br>
   1. <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">LinkedIn Profile</a> <br><br>
   2. <a href="https://github.com/nike14/">GIT</a><br><br>
