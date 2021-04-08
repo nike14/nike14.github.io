@@ -35,15 +35,15 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
   3. <a href="https://docs.google.com/document/d/1JluZwNp4d5m4YVUTnv8KQA1-mesxYOrc4vjSh3dYEkg/edit?usp=sharing">Resume</a>
 
 <br>
-<p>
+<br>
+
    Mobile: <b>+91 7798522172</b><br>
    Email:  <b>nikhilpareshkumarshah@gmail.com</b>
-  </p>
+  
 </div>
 </div>
 
-<p>
-</p>
+
 ---
 
 ## Skillset
