@@ -1,7 +1,7 @@
 ## Portfolio
 
 <div class="row" style="height:570px">
-<div class="column" style="width:50%">
+<div class="column" style="width:70%">
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   
@@ -17,7 +17,7 @@ I am passionate about technology and willing to contribute in building a configu
    Email:  <b>nikhilpareshkumarshah@gmail.com</b>
   </p>
  </div>
- <div class="column" style="width:50%">
+ <div class="column" style="width:30%">
    <br>
   1. <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">LinkedIn Profile</a> <br><br>
   2. <a href="https://github.com/nike14/">GIT</a><br><br>
