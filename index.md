@@ -4,10 +4,10 @@
 <div class="column" style="width:50%">
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
-  <p>
-I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with **6.10+**  years of experience in Automation Testing.
+  
+I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with **6.10+**  years of experience in Automation Testing.<br>
 **API Testing** using rest assured and request,** Web app** using NightWatch, Selenium Webdriver 3.0, **Android Mobile app** using Appium, **Load Testing** using locust
- </p>
+ 
 
   <p>
    Mobile: **+91 7798522172**<br>
