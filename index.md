@@ -13,8 +13,8 @@ I am passionate about technology and willing to contribute in building a configu
 
 
   <p>
-   Mobile: +91 7798522172<br>
-   Email:  nikhilpareshkumarshah@gmail.com
+   Mobile: <b>+91 7798522172</b><br>
+   Email:  <b>nikhilpareshkumarshah@gmail.com</b>
   </p>
  </div>
  <div class="column" style="width:50%">
