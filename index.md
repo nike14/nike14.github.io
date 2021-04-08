@@ -1,13 +1,13 @@
 ## Portfolio
 
-<div class="row" style="height:570px">
-<div class="column" style="width:70%">
+<div class="row" style="height:670px">
+<div class="column" style="width:80%">
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   
 I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with <b>6.10+</b>  years of experience in Automation Testing.<br>
 <br>
-<b>API Testing</b> using rest assured and request, <b>Web app</b> using NightWatch, Selenium Webdriver 3.0, <b>Android Mobile app</b> using Appium, <b>Load Testing</b> using locust
+Experienced in Automation of <b>API Testing in <b>Rest Assured</b> using <b>Core Java</b> and <b>Request</b> using <b>Python</b> by approaching <b>TDD</b> and <b>LCC</b> (lemon cheesecake)frameworks
 <br>
 <br>
 
@@ -17,7 +17,7 @@ I am passionate about technology and willing to contribute in building a configu
    Email:  <b>nikhilpareshkumarshah@gmail.com</b>
   </p>
  </div>
- <div class="column" style="width:30%">
+ <div class="column" style="width:20%">
    <br>
   1. <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">LinkedIn Profile</a> <br><br>
   2. <a href="https://github.com/nike14/">GIT</a><br><br>
