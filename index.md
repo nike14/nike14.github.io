@@ -9,12 +9,22 @@
  </p>
   <p>
 - Experienced in Automation of API Testing in Rest Assured using Core Java and Request using Python by approaching TDD and LCC (lemon cheesecake)frameworks.
-</p>
+ </p>
+  <p>
 - Experienced in Automation of Web App in Nightwatch API, Cucumber using Node.JS and Selenium Webdriver with Core Java by approaching  BDD and TDD frameworks.
+  </p>
+  <p>
 - Experienced in Automation of Mobile App in Appium with Core Java by approaching  BDD framework.
+  </p>
+  <p>
 - Experienced in Load Testing using modern load testing framework with Python 
+  </p>
+  <p>
 - Experienced in CICD by using Jenkins
+  </p>
+  <p>
 - Experience in code deployment tools like Bitbucket and Git
+  </p>
 
  
   <p>
@@ -30,11 +40,17 @@
 </div>
 </div>
 
+
+
+
+
+
+
+
+
+
+
 ---
-
-
-
-
 
 ## Skillset
 
