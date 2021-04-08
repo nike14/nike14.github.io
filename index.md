@@ -5,13 +5,14 @@
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   
-I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with **6.10+**  years of experience in Automation Testing.<br>
-**API Testing** using rest assured and request,** Web app** using NightWatch, Selenium Webdriver 3.0, **Android Mobile app** using Appium, **Load Testing** using locust
+I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with 6.10+  years of experience in Automation Testing.<br>
+
+API Testing using rest assured and request, Web app using NightWatch, Selenium Webdriver 3.0, Android Mobile app using Appium, Load Testing using locust
  
 
   <p>
-   Mobile: **+91 7798522172**<br>
-   Email:  **nikhilpareshkumarshah@gmail.com**
+   Mobile: +91 7798522172<br>
+   Email:  nikhilpareshkumarshah@gmail.com
   </p>
  </div>
  <div class="column" style="width:50%">
