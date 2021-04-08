@@ -7,7 +7,9 @@
   <p>
 I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with 6.10+  years of experience in Automation Testing.
  </p>
- 
+ <p> 
+API Testing using rest assured and request, web app using NightWatch, Selenium Webdriver 3.0, Android Mobile app using Appium, Load Testing using locust
+ </p>
   <p>
    Mobile: +91 7798522172<br>
    Email:  nikhilpareshkumarshah@gmail.com
