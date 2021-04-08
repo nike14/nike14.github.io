@@ -1,17 +1,17 @@
 ## Portfolio
 
-<div class="row" style="height:600px">
+<div class="row" style="height:550px">
 <div class="column" style="width:50%">
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   <p>
-I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with __6.10+__  years of experience in Automation Testing.
-__API Testing__ using rest assured and request, __Web app__ using NightWatch, Selenium Webdriver 3.0, __Android Mobile app__ using Appium, __Load Testing__ using locust
+I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with **6.10+**  years of experience in Automation Testing.
+**API Testing** using rest assured and request,** Web app** using NightWatch, Selenium Webdriver 3.0, **Android Mobile app** using Appium, **Load Testing** using locust
  </p>
 
   <p>
-   Mobile: +91 7798522172<br>
-   Email:  nikhilpareshkumarshah@gmail.com
+   Mobile: **+91 7798522172**<br>
+   Email:  **nikhilpareshkumarshah@gmail.com**
   </p>
  </div>
  <div class="column" style="width:50%">
@@ -21,8 +21,6 @@ __API Testing__ using rest assured and request, __Web app__ using NightWatch, Se
   3. <a href="https://docs.google.com/document/d/1JluZwNp4d5m4YVUTnv8KQA1-mesxYOrc4vjSh3dYEkg/edit?usp=sharing">Resume</a>
 </div>
 </div>
-
-
 
 
 ---
