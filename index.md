@@ -7,7 +7,7 @@
   
 I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with <b>6.10+</b>  years of experience in Automation Testing.<br>
 <br>
-Experienced in Automation of <b>API Testing in <b>Rest Assured</b> using <b>Core Java</b> and <b>Request</b> using <b>Python</b> by approaching <b>TDD</b> and <b>LCC</b> (lemon cheesecake)frameworks
+Experienced in Automation of <b>API Testing</b> in <b>Rest Assured</b> using <b>Core Java</b> and <b>Request</b> using <b>Python</b> by approaching <b>TDD</b> and <b>LCC</b> (lemon cheesecake)frameworks
 <br>
 <br>
 
