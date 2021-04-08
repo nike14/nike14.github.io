@@ -6,14 +6,17 @@
   <br>
   <p>
 - I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with 6.10+  years of experience in Automation Testing.
+ </p>
+  <p>
 - Experienced in Automation of API Testing in Rest Assured using Core Java and Request using Python by approaching TDD and LCC (lemon cheesecake)frameworks.
+</p>
 - Experienced in Automation of Web App in Nightwatch API, Cucumber using Node.JS and Selenium Webdriver with Core Java by approaching  BDD and TDD frameworks.
 - Experienced in Automation of Mobile App in Appium with Core Java by approaching  BDD framework.
 - Experienced in Load Testing using modern load testing framework with Python 
 - Experienced in CICD by using Jenkins
 - Experience in code deployment tools like Bitbucket and Git
 
-  </p>
+ 
   <p>
    Mobile: +91 7798522172<br>
    Email:  nikhilpareshkumarshah@gmail.com
@@ -28,6 +31,10 @@
 </div>
 
 ---
+
+
+
+
 
 ## Skillset
 
