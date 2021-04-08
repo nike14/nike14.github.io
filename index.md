@@ -1,6 +1,6 @@
 ## Portfolio
 
-<div class="row" style="height:650px">
+<div class="row" style="height:655px">
 <div class="column" style="width:65%">
   <img src="/images/logo.png" alt="Avatar" style="width:250px"><br>
   <br>
@@ -39,15 +39,6 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
   
 </div>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
