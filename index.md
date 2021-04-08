@@ -1,6 +1,6 @@
 ## Portfolio
 
-<div class="row" style="height:630px">
+<div class="row" style="height:635px">
 <div class="column" style="width:65%">
   <img src="/images/logo.png" alt="Avatar" style="width:250px"><br>
   <br>
