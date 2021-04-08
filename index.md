@@ -28,6 +28,7 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
 
   
  </div>
+ <div class="row" style="height:67px">
  <div class="column" style="width:25%">
    <br>
   1. <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">LinkedIn Profile</a> <br><br>
