@@ -7,13 +7,18 @@
   
 I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with <b>6.10+</b>  years of experience in Automation Testing.
 <br>
+<br>
 Experienced in Automation of <b>API Testing</b> in <b>Rest Assured</b> using <b>Core Java</b> and <b>Request</b> using <b>Python</b> by approaching <b>TDD</b> and <b>LCC</b> (lemon cheesecake)frameworks
+<br>
 <br>
 Experienced in Automation of <b>Web App</b> in <b>Nightwatch API, Cucumber</b> using <b>Node.JS</b> and <b>Selenium Webdriver</b> with <b>Core Java</b> by approaching <b>BDD</b> and <b>TDD</b> frameworks.
 <br>
+<br>
 Experienced in Automation of <b>Mobile App</b> in <b>Appium</b> with <b>Core Java</b> by approaching <b>BDD</b> framework.
 <br>
+<br>
 Experienced in <b>Load Testing</b> using <b>modern load testing framework with Python</b> 
+<br>
 <br>
 Experienced in <b>CICD</b> by using <b>Jenkins</b>
 
