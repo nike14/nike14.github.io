@@ -2,7 +2,7 @@
 
 <div class="row" style="height:730px">
 <div class="column" style="width:65%">
-  <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
+  <img src="/images/logo.png" alt="Avatar" style="width:250px"><br>
   <br>
   
 I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with <b>6.10+</b>  years of experience in Automation Testing.
