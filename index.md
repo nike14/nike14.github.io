@@ -7,7 +7,7 @@
   
 I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with <b>6.10+</b>  years of experience in Automation Testing.<br>
 <br>
-API Testing using rest assured and request, Web app using NightWatch, Selenium Webdriver 3.0, Android Mobile app using Appium, Load Testing using locust
+<b>API Testing</b> using rest assured and request, <b>Web app</b> using NightWatch, Selenium Webdriver 3.0, <b>Android Mobile app</b> using Appium, <b>Load Testing</b> using locust
 <br>
 <br>
 
