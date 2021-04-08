@@ -1,11 +1,11 @@
 ## Portfolio
 
-<div class="row" style="height:550px">
+<div class="row" style="height:570px">
 <div class="column" style="width:50%">
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   
-I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with 6.10+  years of experience in Automation Testing.<br>
+I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with **6.10+**  years of experience in Automation Testing.<br>
 <br>
 API Testing using rest assured and request, Web app using NightWatch, Selenium Webdriver 3.0, Android Mobile app using Appium, Load Testing using locust
 <br>
