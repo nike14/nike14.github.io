@@ -35,7 +35,7 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
   2. <a href="https://github.com/nike14/">GIT</a><br><br>
   3. <a href="https://docs.google.com/document/d/1JluZwNp4d5m4YVUTnv8KQA1-mesxYOrc4vjSh3dYEkg/edit?usp=sharing">Resume</a><br><br>
   4. Mobile: <b>+91 7798522172</b><br><br>
-  5. Email:  <span style="color:blue"><b>nikhilpareshkumarshah@gmail.com</b></span>
+  5. Email:  <span style="color:blue">nikhilpareshkumarshah@gmail.com</span>
   
 </div>
 </div>
