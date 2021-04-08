@@ -34,8 +34,8 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
   1. <a href="https://www.linkedin.com/in/nikhil-shah-227b95b5/">LinkedIn Profile</a> <br><br>
   2. <a href="https://github.com/nike14/">GIT</a><br><br>
   3. <a href="https://docs.google.com/document/d/1JluZwNp4d5m4YVUTnv8KQA1-mesxYOrc4vjSh3dYEkg/edit?usp=sharing">Resume</a><br><br>
-  4. Mobile: +91 7798522172<br>
-  5. Email:  <span style="color:blue">nikhilpareshkumarshah@gmail.com</span>
+  Mobile: +91 7798522172<br>
+  Email:  <span style="color:blue">nikhilpareshkumarshah@gmail.com</span>
   
 </div>
 </div>
