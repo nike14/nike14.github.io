@@ -5,7 +5,7 @@
   <img src="/images/logo.png" alt="Avatar" style="width:300px"><br>
   <br>
   <p>
-- I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with 6.10+  years of experience in Automation Testing.
+I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with 6.10+  years of experience in Automation Testing.
  </p>
  
   <p>
