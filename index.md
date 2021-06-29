@@ -43,7 +43,7 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
 
 | Skill Type | Skill Name | Experience |  
 |-----------|:-----------:|-----------:| 
-| Languages | Core Java | 3.5 years |
+| Languages | Core Java | 5 years |
 | | Python | 6 months |
 | | JavaScript (Node.js) | 6 months |
 | Open Source Tools | Selenium | 5 years |
