@@ -5,7 +5,7 @@
   <img src="/images/logo.png" alt="Avatar" style="width:250px"><br>
   <br>
   
-I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with <b>7</b>  years of experience in Automation Testing.
+I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with <b>"7"</b>  years of experience in Automation Testing.
 <br>
 <br>
 Experienced in Automation of <b>API Testing</b> in <b>Rest Assured</b> using <b>Core Java</b> and <b>Request</b> using <b>Python</b> by approaching <b>TDD</b> and <b>LCC</b> (lemon cheesecake)frameworks
