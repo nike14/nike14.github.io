@@ -69,37 +69,43 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
 || Pycharm| 6 months |
 | Methodology| Scrum, Kanban | 5 Years |
 
-### Project # 1: Returns console UI BDD Framework
+### Project # 1: Canopus squad API Automation(Bank Jago)
+
+Canopus squad API Automation Framework is used to automate flows like Search customer, Block/Unblock pockets, Maker, Checker flow for prospect and escalated customer, Lock/unlock customer account and for Customer engagement activities such as Referral campaign and Fintamin Games.
+
+---
+
+### Project # 2: Returns console UI BDD Framework
 
 Returns Console UI BDD Framework used to automate flows like create account, company, calendars and file the returns using different methods. Cucumber framework is used to remove the bridge between “non-technical and technical teams”. Executed automation script for smoke and regression testing. 
 
 ---
 
-### Project # 2: CRM UI BDD Framework
+### Project # 3: CRM UI BDD Framework
 
 CRM UI BDD Framework used to automate CRM flows like edit/create farmer, add products to cart, apply offers, coupons and place an order. Cucumber framework is used to remove the bridge between “​non-technical and technical teams​”. Executed automation script for ​regression testing​. Framework is integrated with​ extent report​ for reporting purpose.
 
 ---
 
-### Project # 3: Load Testing Automation Framework
+### Project # 4: Load Testing Automation Framework
 
 Agrostar Lite is a PWA(Progressive web app) app is used for ​field officers to place orders from the field for new and old farmers. ​Load Testing Automation Framework is used to automate Agrostar Lite API. locust framework is used to automate rest API.
 
 ---
-### Project # 4: API Automation Framework
+### Project # 5: API Automation Framework
 
 API Automation Framework is used to automate CRM ​API Test cases. ​lemon cheese cake framework ​is used for​ ​suite, annotation and reporting purpose and ​Request library is used to automate rest API.​ ​We executed an automation script for regression testing.
 
 ---
 
-### Project # 5: AgroEx Mobile Framework(LMD- Last Mile Delivery)
+### Project # 6: AgroEx Mobile Framework(LMD- Last Mile Delivery)
 
 AgroEx is a hyperlocal logistic service of Agrostar. AgroEx Delivery enables the team to deliver products to our customers at their doorsteps and give them a seamless online shopping experience.
 
 
 
 ### Responsibilities​ : 
-1. Working and mentoring automation QA technology teams at Avalara.
+1. Working and mentoring automation QA technology teams.
 2. Worked on building end-to-end BDD integration tests from scratch with Node.js, NightWatch. Used Jenkins to run tests on successful builds and publish results. These tests were helpful in catching issues in the relevant modules of the system in a timely manner.
 3. Define test strategies for testing RESTful APIs, web apps, Android apps testing in the overall tech stack of the business flow. 
 4. Responsible for developing robust API as well as UI based testing frameworks using Java, Selenium, TestNG, REST Assured, Appium, Python, JavaScript (Node.js) etc.
