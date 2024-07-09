@@ -49,12 +49,12 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
 | | Python | 1 year |
 | | JavaScript (Node.js) | 6 months |
 | Open Source Tools | Selenium | 5 years |
-|| Appium | 1 years |
+|| Appium | 1 year |
 || NightWatch | 1 year |
 || TestLink (Test case management tool) | 1 year |
 | Framework | TestNG | 2 years |
 || BDD | 3 years |
-|| [lemoncheesecake](https://github.com/lemoncheesecake/lemoncheesecake) | 1 years |
+|| [lemoncheesecake](https://github.com/lemoncheesecake/lemoncheesecake) | 1 year |
 | API Testing | Rest Assured | 6 months |
 || Request | 1.5 years | 
 || Client(locust) | 3 months |
