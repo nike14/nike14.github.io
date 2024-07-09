@@ -46,12 +46,12 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
 | Skill Type | Skill Name | Experience |  
 |-----------|:-----------:|-----------:| 
 | Languages | Core Java | 5 years |
-| | Python | 6 months |
+| | Python | 1 year |
 | | JavaScript (Node.js) | 6 months |
 | Open Source Tools | Selenium | 5 years |
 || Appium | 1 years |
-|| NightWatch | 1 years |
-|| TestLink (Test case management tool) | 1 years |
+|| NightWatch | 1 year |
+|| TestLink (Test case management tool) | 1 year |
 | Framework | TestNG | 2 years |
 || BDD | 3 years |
 || [lemoncheesecake](https://github.com/lemoncheesecake/lemoncheesecake) | 1 years |
@@ -62,12 +62,12 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
 || NPM | 3 months |
 | VCS | GIT | 3 years |
 | Continuous Integration | Jenkins | 1.5 years |
-| OS | Linux | 1 years |
-|| macOS | 1 years |
+| OS | Linux | 1 year |
+|| macOS | 1 year |
 | IDE/Editors | Eclipse | 2 Years |
-| | Intellij | 1 Years |
-|| Pycharm| 6 months |
-| Methodology| Scrum, Kanban | 5 Years |
+| | Intellij | 3 Years |
+|| Pycharm| 2 Years |
+| Methodology| Scrum, Kanban | 8 Years |
 
 ### Project # 1: Canopus squad API Automation(Bank Jago)
 
