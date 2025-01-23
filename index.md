@@ -84,6 +84,8 @@ Experienced in <b>CICD</b> by using <b>Jenkins</b>
 || Pycharm| 2 Years |
 | Methodology| Scrum, Kanban | 8 Years |
 
+---------------------------------------------------------------------------------------------------
+
 ### Project # 1: Canopus squad API Automation(Bank Jago)
 
 Canopus squad API Automation Framework is used to automate flows like Search customer, Block/Unblock pockets, Maker, Checker flow for prospect and escalated customer, Lock/unlock customer account and for Customer engagement activities such as Referral campaign and Fintamin Games.
