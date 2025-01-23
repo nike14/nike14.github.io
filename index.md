@@ -8,7 +8,7 @@
 I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with <b>"10+"</b>  years of experience in Automation Testing.
 <br>
 <br>
-Leading the development of an AI-powered tester designed to mimic human testers by receiving test scenarios, executing them, and automatically generating Playwright automation scripts from natural language specifications using DOM and screenshots. This initiative aims to reduce scripting efforts by 30% in the first phase and streamline future test automation processes.
+Leading the development of an **AI-powered tester** designed to mimic human testers by receiving test scenarios, executing them, and automatically generating Playwright automation scripts from **natural language specifications using DOM and screenshots**. This initiative aims to reduce scripting efforts by 30% in the first phase and streamline future test automation processes.
 <br>
 <br>
 Experienced in Automation of <b>API Testing</b> in <b>Rest Assured</b> using <b>Core Java</b> , <b>Request</b> using <b>Python</b> by approaching <b>TDD</b> and <b>LCC</b> (lemon cheesecake) and <b>Jest</b> using <b>Node.js</b> frameworks
